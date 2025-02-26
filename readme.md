@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">Contacts</h3>
+<h3 align="left">Contact</h3>
 
 ###
 
