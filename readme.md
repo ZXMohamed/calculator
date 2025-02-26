@@ -36,6 +36,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" style="height:40px;" alt="vercel logo"  />
+</div>
+
+###
+
 <h3 align="left">Contacts</h3>
 
 ###
@@ -50,11 +56,6 @@
   <a href="mhmdalshwamy@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="30" alt="microsoft-outlook logo"  />
   </a>
-</div>
-
-###
-<div align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" style="height:40px;" alt="vercel logo"  />
 </div>
 
 ###
