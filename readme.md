@@ -53,7 +53,7 @@
   <a href="https://stackoverflow.com/users/15161247/mohamed-kamal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="50" height="30" alt="stackoverflow logo"  />
   </a>
-  <a href="mhmdalshwamy@outlook.com" target="_blank">
+  <a href="mailto:mhmdalshwamy@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="30" alt="microsoft-outlook logo"  />
   </a>
 </div>
